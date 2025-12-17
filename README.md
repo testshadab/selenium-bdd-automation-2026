@@ -41,7 +41,7 @@ selenium-bdd-automation-2026/
 
 ## Technologies Used
 
-- **Java 11** - Programming Language
+- **Java 17** - Programming Language
 - **Selenium WebDriver 4.16.1** - Browser Automation
 - **Cucumber 7.15.0** - BDD Framework
 - **TestNG 7.8.0** - Test Execution Framework
@@ -53,7 +53,7 @@ selenium-bdd-automation-2026/
 
 Before running the tests, ensure you have the following installed:
 
-1. **Java JDK 11 or higher**
+1. **Java JDK 17 or higher**
    - Download from: https://www.oracle.com/java/technologies/javase-downloads.html
    - Verify installation: `java -version`
 
